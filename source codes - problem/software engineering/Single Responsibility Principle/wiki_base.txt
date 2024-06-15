@@ -1,0 +1,35 @@
+
+== Intro ==
+
+Guild Holdings Company (GHLD) is a mortgage company that focuses on providing a personalized mortgage-borrowing experience to its clients. They employ a relationship-based loan sourcing strategy and aim to deliver the promise of homeownership in neighborhoods and communities across the United States. GHLD generates revenue primarily through its origination segment, with the retail channel accounting for approximately 95% of the origination segment in 2023. They earn revenue through gain on sale and fees associated with originating and selling mortgage loans to the secondary market. Furthermore, GHLD benefits from a balanced business model that includes both origination and servicing segments, allowing them to navigate through interest rate and market cycles effectively[0].
+
+GHLD’s main expertise lies in its origination strategy, which focuses on increasing its purchase-mortgage business. This strategy is executed through a combination of experienced loan officers, a technology platform, and diverse product offerings. They have developed an in-house servicing platform that creates opportunities to extend relationships with clients and generate refinance and purchase volume. Additionally, GHLD has a proprietary technology platform that underpins loan officer productivity, fosters repeat business, and enables them to control the lending process from start to finish. Their technology platform has been developed over the course of their long operating history and is primarily proprietary, developed internally by their own employees[1][2].
+
+In summary, GHLD is a mortgage company that specializes in providing a personalized mortgage-borrowing experience, generating revenue through mortgage loan origination, and leveraging technology and expertise to enhance client relationships and drive business growth. Their core strengths include a focus on purchase-mortgage business, an in-house servicing platform, and a proprietary technology platform that supports their loan officers and client interactions.
+
+
+=== Cost ===
+
+Guild Holdings Company (GHLD) incurs various costs across different segments of its operations. Some key cost segments include:
+
+# Salaries, incentive compensation, and benefits: This cost segment covers salaries, incentives, and benefits for employees. In the year ended December 31, 2023, this expense accounted for a significant portion of the total expenses in both the origination and servicing segments of GHLD.
+# General and administrative expenses: This segment includes general overhead costs related to the administration of the company. These expenses increased in the year ended December 31, 2023, compared to the previous year, due to specific factors like valuation adjustments and other administrative costs.
+# Occupancy, equipment, and communication: Costs related to occupancy, equipment, and communication are part of GHLD’s expense structure. These costs include office rental expenses, equipment purchases, and communication services. The expenses in this segment remained relatively stable during the year ended December 31, 2023, reflecting expected changes associated with acquisitions and operational adjustments.
+# Depreciation and amortization: This cost segment represents the expenses related to the depreciation of assets and the amortization of intangible assets. The depreciation and amortization expenses remained relatively consistent from year to year, reflecting the nature of the assets being depreciated and amortized.
+# Provision for foreclosure losses: GHLD sets aside reserves for potential losses related to foreclosures. The company monitors foreclosure reserves regularly and assesses the need for adjustments based on risk factors and market conditions.
+
+By understanding and managing these cost segments effectively, GHLD can optimize its operational efficiency and financial performance in its origination and servicing segments[0][1].
+
+
+=== Customer ===
+
+GHLD의 고객 페르소나는 여러 세그먼트로 나눌 수 있습니다. 주요 고객 세그먼트 및 해당 세그먼트의 세부사항은 다음과 같습니다:
+
+# 주택 구입을 계획하는 처음 도전하는 사람들: 이 그룹은 주택 구입을 위해 대출을 신청하는 경우가 많습니다. GHLD의 제품과 서비스는 주택 구입을 계획하고 처음 시도하는 고객을 지원하며, 신용 평가 및 대출 서비스를 제공하여 주택 소유의 꿈을 실현할 수 있도록 합니다. 이들은 GHLD의 제품을 이용하여 처음 주택 구입을 위한 자금을 조달하고 이 과정에서 GHLD에 지불하게 됩니다.
+# 부동산 투자자 및 재투자자: 부동산 투자자 및 재투자자는 GHLD의 서비스를 활용하여 주택 투자 및 재투자를 위한 자금을 조달합니다. 이 그룹은 부동산 시장에서 자금 흐름을 최적화하고 투자 수익을 극대화하기 위해 GHLD와 협력합니다. 이들은 GHLD가 제공하는 신속하고 맞춤화된 대출 서비스를 통해 자신의 부동산 포트폴리오를 효과적으로 관리하고 늘리는 데 기여합니다.
+# 리파이낸싱을 필요로 하는 고객: 이 그룹은 기존 주택 소유자이며, 이전 대출 조건을 개선하거나 금리를 재조정하기 위해 리파이낸싱이 필요한 경우가 많습니다. GHLD의 제품과 서비스를 통해 이 그룹은 대출 조건의 재조정이나 부동산 자산의 재평가를 통해 금전적 이점을 얻을 수 있습니다. 이들은 GHLD와의 협력을 통해 자신의 현재 대출 상황을 개선시키고 미래 재무 상황을 안정화시킬 수 있습니다.
+
+이러한 고객 세그먼트는 각각 다른 Bedrock Values와 Priorities를 가지고 있으며, GHLD는 이를 고려하여 각 고객그룹에 맞는 맞춤형 서비스를 제공하여 고객들의 다양한 요구와 목표를 충족시키고 있습니다. 이를 통해 GHLD는 고객들의 needs와 pain points를 이해하여 최상의 고객 경험을 제공하고 신뢰를 쌓아가고 있습니다.
+
+
+    
